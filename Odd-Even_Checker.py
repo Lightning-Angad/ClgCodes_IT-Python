@@ -8,7 +8,6 @@ while num<=n:
     num += 1
 
 print("\nOdd Numbers: ")
-num=m
 while num<=n:
     if num%2!=0:
         print(num)
