@@ -1,4 +1,4 @@
-import os
+#Odd-Even Summation
 m=int(input("Enter the starting range: "))
 n=int(input("Enter the ending range: "))
 num=m

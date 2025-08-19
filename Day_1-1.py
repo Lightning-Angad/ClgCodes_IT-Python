@@ -1,4 +1,4 @@
-import os
+#Leap-Year Checker
 num = int(input("Enter a year: "))
 if num % 4 == 0:
     if num % 100 == 0:
