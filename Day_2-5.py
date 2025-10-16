@@ -1,4 +1,4 @@
-#Sum & Avg in List
+#Sum & Avg of elements in List
 list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(list)
 total=0

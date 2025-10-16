@@ -1,4 +1,4 @@
-#merging-dictionaries
+#Merging Dictionaries
 dictx= {"name":"Ankit", "field":"medical"}
 dicty= {"sex":"M", "age":20}
 dictx.update(dicty)

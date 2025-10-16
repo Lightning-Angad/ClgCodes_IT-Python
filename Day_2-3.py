@@ -1,4 +1,4 @@
-#Duplicate in List
+#Searching Duplicate in List
 list=[1, 2, 2, 3, 4, 5, 5, 5, 6, 7, 7]
 print(list)
 unique_list = []

@@ -1,4 +1,4 @@
-#dictionary-searching
+#Searching using Dictionary
 dictx={"name":"Sayan", "job":"business", "age":20}
 n=input("Enter the key: ")
 flag=0

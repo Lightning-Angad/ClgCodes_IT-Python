@@ -1,4 +1,4 @@
-#word_frequency-dictionaries
+#Finding Word Frequency using Dictionary
 x = input("Enter a sentence: ")
 words = x.split()
 new = {}
