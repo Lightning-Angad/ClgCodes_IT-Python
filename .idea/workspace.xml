@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3b915c1-89cb-4d96-8926-63095c4ec594" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Hidden!!/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hidden!!/.idea/ClgCodes_IT-Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hidden!!/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hidden!!/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hidden!!/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hidden!!/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="7de86f66-e935-4b52-b633-acb545e4b3fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ClgCodes_IT-Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="34Wr8SV15sr4szW83yBIedTzakK" />
+  <component name="ProjectId" id="34WuMJ84lItCOwDEfRH03TAtQzT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,11 +42,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d3b915c1-89cb-4d96-8926-63095c4ec594" name="Changes" comment="" />
-      <created>1761340009548</created>
+      <changelist id="7de86f66-e935-4b52-b633-acb545e4b3fe" name="Changes" comment="" />
+      <created>1761341601523</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761340009548</updated>
+      <updated>1761341601523</updated>
     </task>
     <servers />
   </component>
